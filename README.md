@@ -1,6 +1,6 @@
 #  Gabaritos para Obra em 3d
 projeto gabarito em 3d para marcaçoes de pontos eletricos 4x2 e 4x4. Criado com claude 
-Impressão:
+
 
 Imprima a haste em pé, com o furo para baixo. A altura é de 209,5 mm, então a sua impressora precisa de pelo menos 210 mm de altura (eixo Z).
 Use PETG com 4 perímetros. Se a haste ficar muito flexível, aumente o preenchimento ou use um cabo de vassoura de 12 mm no lugar.
